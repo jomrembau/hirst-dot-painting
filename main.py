@@ -20,6 +20,7 @@ start_y = -(10 // 2) * step
 win = turtle.Screen()
 win.setup(width=600,height=600)
 win.bgcolor("black")
+win.title("Hirst's Spot Painting")
 
 hirst = Turtle()
 hirst.turtlesize(2)
